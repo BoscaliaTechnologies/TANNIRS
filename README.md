@@ -4,7 +4,7 @@
 Boscalia Technologies S.L. en colaboración con la Junta de Extremadura (Consejería de Economía, Ciencia y Agenda Digital) y El Fondo Europeo de Desarrollo Regional (FEDER) desarrolla el proyecto TANNIRS.
 </p>
 
-<p align="center"><img src="./images/logos.png" width=300 height=175></p>
+<p align="center"><img src="./images/logos.png" widht=300 height=175></p>
 
 ## ¿Qué relación puede haber entre el vino, la madera y la espectroscopía?
 
