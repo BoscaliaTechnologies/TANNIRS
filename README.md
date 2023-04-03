@@ -31,3 +31,10 @@ Para dar este paso, es necesario aportar <b>garantías</b> de calidad. Aquí, es
 **Cromatografía de Gases Masas (GC-MS)**
 
 Esta técnica proporciona información sobre peso y estructura molecular. Es una técnica muy utilizada para conocer el contenido en elagitaninos en el vino, pero es costosa, lenta y destructiva. Antes de las mediciones en GC-MS hay que preparar las extracciones de los compuestos de la madera. Para eso se sumergen virutas de madera en una solución hidroalcohólica durante 15 días. Con esta técnica pretendemos obtener datos del contenido en eugenol, β-methyloctalactona, guaiacol, 4-methyl guaiacol, vanillin, furfural, 5-methylfurfural. 
+
+<p align="center"><img src="./images/gc-ms.jpeg"></p>
+
+**Vis-NIR**
+
+La espectroscopía Vis-NIR permite registrar la “huella dactilar” (físico-química) de la madera. Las mediciones se realizarán con nuestro propio equipo. 
+
