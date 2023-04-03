@@ -9,7 +9,7 @@ Boscalia Technologies S.L. en colaboración con la Junta de Extremadura (Conseje
 ## ¿Qué relación puede haber entre el vino, la madera y la espectroscopía?
 
 <p align="justify">
-Los **polifenole** son moléculas que abundan en la fruta y la madera y que están involucrados en varias fases de la crianza del vino. **La madera de las barrica** es una fuente importante de estos polifenoles. Durante el tiempo que el vino está en la barrica, se liberan estos compuestos desde la madera al vino modulando sus propiedades organolépticas (color, aroma y sabor). Una alternativa a las tradicionales barricas de madera es el uso de tanques de acero o aluminio combinados con alternativos de roble (ej.: astillas). Esto disminuye los tiempo de crianza y los costes derivados de las barricas de madera (cuidado, mermas por evaporación, etc), además de mejorar el control de los niveles de polifenoles que se liberan al caldo, ya que en exceso pueden ser contraproducentes. 
+Los <b>polifenoles</b> son moléculas que abundan en la fruta y la madera y que están involucrados en varias fases de la crianza del vino. <b>La madera de las barrica</b> es una fuente importante de estos polifenoles. Durante el tiempo que el vino está en la barrica, se liberan estos compuestos desde la madera al vino modulando sus propiedades organolépticas (color, aroma y sabor). Una alternativa a las tradicionales barricas de madera es el uso de tanques de acero o aluminio combinados con alternativos de roble (ej.: astillas). Esto disminuye los tiempo de crianza y los costes derivados de las barricas de madera (cuidado, mermas por evaporación, etc), además de mejorar el control de los niveles de polifenoles que se liberan al caldo, ya que en exceso pueden ser contraproducentes. 
 </p>
 
 <p align="justify">
@@ -17,7 +17,7 @@ En los últimos años, la producción de alternativos de roble se ha sofisticado
 </p>
 
 <p align="justify">
-Para dar este paso, es necesario aportar **garantías** de calidad. Aquí, es dónde la espectroscopía Vis-NIR puede ayudar a la caracterización química de las maderas garantizando unas propiedades enológicas aptas para la maduración de los vinos. Hasta ahora, las técnicas más utilizadas son costosas, lentas y destructivas. Mientras que la espectroscopía es una técnica barata, no destructiva y rápida. 
+Para dar este paso, es necesario aportar <b>garantías</b> de calidad. Aquí, es dónde la espectroscopía Vis-NIR puede ayudar a la caracterización química de las maderas garantizando unas propiedades enológicas aptas para la maduración de los vinos. Hasta ahora, las técnicas más utilizadas son costosas, lentas y destructivas. Mientras que la espectroscopía es una técnica barata, no destructiva y rápida. 
 </p>
 
 ## DESARROLLO
