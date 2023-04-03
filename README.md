@@ -38,3 +38,8 @@ Esta técnica proporciona información sobre peso y estructura molecular. Es una
 
 La espectroscopía Vis-NIR permite registrar la “huella dactilar” (físico-química) de la madera. Las mediciones se realizarán con nuestro propio equipo. 
 
+<p align="center"><img src="./images/nir.jpeg"></p>
+
+**FTIR-ATR**
+
+La espectroscopía FTIR-ATR, igual que Vis-NIR, permite registrar la “huella dactilar” (físico-química) de la madera, pero en otra longitud de onda, de forma que se complementan. Estas mediciones se realizarán en colaboración con el grupo EcoPast de la Universidade de Santiago de Compostela. 
