@@ -48,5 +48,5 @@ La espectroscopía FTIR-ATR, igual que Vis-NIR, permite registrar la “huella d
 
 **Procesado estadístico:**
 
-Una vez obtenidos los datos de espectroscopía (Vis-NIR y FTIR-ATR) y de GC-MS se analizarán estadísticamente, obteniéndose distintos modelos predictivos con distintos métodos de ML (mejor sin siglas que no se hayan explciado antes). Se elegirá el modelo que mejor prediga el contenido en los distintos elagitaninos. 
+Una vez obtenidos los datos de espectroscopía (Vis-NIR y FTIR-ATR) y de GC-MS se analizarán estadísticamente, obteniéndose distintos modelos predictivos con distintos métodos de Machine Learning. Se elegirá el modelo que mejor prediga el contenido en los distintos elagitaninos. 
 
