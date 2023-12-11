@@ -38,7 +38,7 @@ Esta técnica proporciona información sobre peso y estructura molecular. Es una
 
 **Vis-NIR**
 
-La espectroscopía Vis-NIR permite registrar la “huella dactilar” (físico-química) de la madera. Las mediciones se realizron con el prototipo diseñado por Boscalia Technologies. 
+La espectroscopía Vis-NIR permite registrar la “huella dactilar” (físico-química) de la madera mediante el análisis de las vibraciones de los enlaces covalentes de la muestra en los rangos del espectro electromagnético visible (400-780 nm) e infrarrojo cercano (780-2500 nm). Las mediciones se realizarán con nuestro propio equipo, el espectrómetro portátil SATree-Boscalia, desarrollado por nuestra empresa y que cuenta con 3 detectores que cubren los siguientes rangos de longitudes de onda: 300-1.100 nm, 900-1.700 nm y 1.750-2150 nm.
 
 <p align="center"><img src="./images/nir.jpeg"></p>
 
